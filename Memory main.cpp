@@ -1,7 +1,8 @@
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
-using namespace std; 
+using namespace std;
+//aggiunto il 06/02/2026
 /* Realizzare il gioco del Memory con le seguenti funzionalità:
 
 
@@ -68,4 +69,5 @@ for(int i=0;i<dimrighe;i++){
 cout<<endl;
 }
 	return 0;
+
 }
